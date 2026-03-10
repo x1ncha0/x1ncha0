@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Phong :vietnam:
+# Hi there 👋 I'm Phong
 
 <p align="center"></p>
 
