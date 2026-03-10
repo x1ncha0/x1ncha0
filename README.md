@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 💻 Backend Developer (.NET / C#)
+
 👯 I'm working for [VNEXT Software](https://www.vnext.vn/) company.
 
 ## 🚀 Skills
